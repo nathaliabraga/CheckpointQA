@@ -1,3 +1,5 @@
+[Link SonarCloud](https://sonarcloud.io/summary/overall?id=nathaliabraga_CheckpointQA)
+
 # API de Consulta do IBGE
 
 Este projeto é uma simples aplicação Java que utiliza a API do IBGE para consultar informações sobre estados brasileiros.
